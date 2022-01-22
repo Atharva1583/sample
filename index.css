@@ -1,0 +1,11 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+img{
+    width: 18rem;
+    height: 15rem;
+}
+.container{
+    margin: auto;
+}
